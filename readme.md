@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/文档数-241-blue" alt="docs" />
+  <img src="https://img.shields.io/badge/文档数-248-blue" alt="docs" />
   <img src="https://img.shields.io/badge/覆盖省份-34-green" alt="provinces" />
   <img src="https://img.shields.io/badge/板块-3-orange" alt="boards" />
+  <img src="https://img.shields.io/badge/配图-44-pink" alt="images" />
   <img src="https://img.shields.io/badge/更新-2026--07--27-9cf" alt="updated" />
 </p>
 
