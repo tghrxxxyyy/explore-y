@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/文档数-256-blue" alt="docs" />
+  <img src="https://img.shields.io/badge/文档数-529-blue" alt="docs" />
   <img src="https://img.shields.io/badge/覆盖省份-34-green" alt="provinces" />
   <img src="https://img.shields.io/badge/板块-3-orange" alt="boards" />
   <img src="https://img.shields.io/badge/配图-44-pink" alt="images" />
-  <img src="https://img.shields.io/badge/更新-2026--07--27-9cf" alt="updated" />
+  <img src="https://img.shields.io/badge/更新-2026--07--29-9cf" alt="updated" />
 </p>
 
 <h1 align="center">📚 生活 · 金融 · 工作 — 知识内容库</h1>
@@ -18,7 +18,7 @@
 
 ## ✨ 这个库有什么
 
-- 🍜 **生活 · 吃**：八大菜系 + 家常菜，每道菜含「食材 / 步骤 / 小贴士」，可配图文。
+- 🍜 **生活 · 吃**：十大菜系（鲁川粤闽苏浙湘徽 + 京、本帮）+ 家常菜，每道菜含「食材 / 步骤 / 小贴士」，可配图文。
 - 🔌 **生活 · 用**：常见家电的品牌、价格区间、口碑与选购要点。
 - 🏥 **生活 · 健康**：体检解读、家庭药箱、运动健身、营养基础（含免责声明）。
 - 🏠 **生活 · 居家**：装修避坑、租房与买房决策。
@@ -40,7 +40,7 @@ explore/
 ├── readme.md            （本文件 · 总目录）
 ├── 生活/
 │   ├── readme.md
-│   ├── 吃/       （八大菜系 + 家常菜做法）
+│   ├── 吃/       （十大菜系 + 家常菜做法）
 │   ├── 用/       （常见家电品牌/价格/评价）
 │   ├── 健康/     （体检解读 / 家庭药箱 / 运动 / 营养）
 │   ├── 居家/     （装修避坑 / 租房买房）
